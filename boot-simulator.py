@@ -57,3 +57,8 @@ class TerminalBootApp(App):
 
 if __name__ == "__main__":
     TerminalBootApp().run()
+
+
+# cooler prints? flickering boxes, fake hex memory addresses?, screen flicker effect, cursor blinking...
+# ASCII art boot logo?
+# fake POST errors?
